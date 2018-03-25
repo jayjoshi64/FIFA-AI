@@ -1,5 +1,5 @@
 # FIFA-AI
-learning Machine learning from scratch to training an AI for FIFA
+Learning Machine-learning from scratch to training an AI for FIFA
 
 ### Overview
 
@@ -10,17 +10,17 @@ This is a step towards the dream. Let's learn and teach what it takes to make AI
 ### Tectics
 
 1. Learn basics of Neural Network with all Python libraries.
-2. Learn Different types of Neural network, What is the significance and use of it and how to implement them if we want to, with pros and cons
-3. Learn Different Machine Learning algorithms that we can use to train the AI.
+2. Learn different types of Neural network, What is the significance and use of it and how to implement them if we want to, with pros and cons
+3. Learn different Machine Learning algorithms that we can use to train the AI.
 4. Analysis on how we can get input from FIFA and make actions.
-5. Connect the FIFA with the Artificial brain.
+5. Connect the FIFA with the artificial brain.
 6. Play with it.
 
 
 
 ### Goal
-out goal is to learn Machine learning with very strong fundamentals. To learn different types of Neural network and Machine learning algorithms. To learn how to implement them.
+out goal is to learn Machine-learning with very strong fundamentals. To learn different types of Neural-network and Machine-learning algorithms. To learn how to implement them.
 
 But..
 
-The ultimate goal is to Train FIFA AI and Play against it.
+The ultimate goal is to train FIFA AI and Play against it.
