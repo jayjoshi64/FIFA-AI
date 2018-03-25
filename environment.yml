@@ -55,6 +55,8 @@ dependencies:
   - vc=14.1=h21ff451_0
   - vs2017_runtime=15.4.27004.2010=0
   - pip:
+    - pillow==5.0.0
     - torch==0.3.0b0+591e73e
+    - torchvision==0.2.0
 prefix: C:\Users\Admin\AppData\Local\conda\conda\envs\tensorenv
 
