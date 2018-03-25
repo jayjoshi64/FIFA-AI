@@ -1,3 +1,6 @@
+"""
+The example of Breast cancer  mentioned in scikit-learn-code.py using Pytorch.
+"""
 import torch
 from torch.autograd import Variable
 import torch.nn as nn

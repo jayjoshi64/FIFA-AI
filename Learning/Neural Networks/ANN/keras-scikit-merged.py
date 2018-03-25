@@ -1,3 +1,7 @@
+"""
+Example mentioned in scikit-learn-code.py of Breast cancer classification done using Keras.
+"""
+
 import keras
 from keras.models import Sequential
 from keras.layers import Dense

@@ -1,3 +1,8 @@
+"""
+A basic example of Classification with Neural network using Keras.
+The working of code is explained in explaination/keras.md
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
